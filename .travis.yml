@@ -1,7 +1,7 @@
 language: c
 script: make test
 before-install:
-	sudo apt-get update && sudo apt-get isntall check
+	sudo apt-get update && sudo apt-get install check
 addons:
 	apt:
 		update: true
