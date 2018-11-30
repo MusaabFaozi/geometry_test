@@ -4,4 +4,4 @@ before-install:
 	sudo apt-get update && sudo apt-get isntall check
 addons:
 	apt:
-		update: true 
+		update: true
